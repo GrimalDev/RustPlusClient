@@ -1,0 +1,29 @@
+{
+  "name": "rust",
+  "version": "1.0.0",
+  "description": "Rustplus interractions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThehIddenGeek42/RustPlusClient.git"
+  },
+  "keywords": [
+    "Rust",
+    "game",
+    "rustplus",
+    "test",
+    "client"
+  ],
+  "author": "TheHiddenGeek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThehIddenGeek42/RustPlusClient/issues"
+  },
+  "homepage": "https://github.com/ThehIddenGeek42/RustPlusClient#readme",
+  "dependencies": {
+    "@liamcottle/rustplus.js": "^2.0.0"
+  }
+}
